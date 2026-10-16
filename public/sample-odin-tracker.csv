@@ -1,0 +1,5 @@
+case_id,deal,investor_name,status,owner,missing_docs,kyc_status,payment_status,subscription_amount,currency,last_updated,close_date,manager_approval,notes
+OD-2001,Orion SPV,Meridian Angels,waiting_docs,Ari,proof_of_address,pending,received,150000,GBP,2026-10-09,2026-10-24,not_ready,Address proof expired
+OD-2002,Orion SPV,Meridian Angel Syndicate,ready_for_review,,none,passed,received,150000,GBP,2026-10-12,2026-10-24,pending_manager,Potential duplicate entity
+OD-2003,Pulsar Fund,Cedar Ventures,blocked,Rae,source_of_funds,review,partial,500000,USD,2026-09-26,2026-10-22,not_ready,Large ticket partial payment
+OD-2004,Pulsar Fund,Nova Scout,ready_to_close,Kim,none,passed,received,75000,USD,2026-10-15,2026-10-22,approved,Ready for admin summary
